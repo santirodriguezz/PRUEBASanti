@@ -3,6 +3,6 @@ public class App {
         System.out.println("Santiago Rodriguez ALfaro");
         System.out.println("Acabo de hacer cambios Christian Hidalgo Cadena");
         System.out.println("ejercicio7");
-        System.out.println("ejercicio8 ");
+        System.out.println("ejercicio8b");
     }
 }
